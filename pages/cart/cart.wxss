@@ -93,7 +93,7 @@ page {
   align-items: center;
   margin-top: 140rpx;
 }
-.cart_content .cart_main .nothing .icon-konggouwuche {
+.cart_content .cart_main .nothing .iconkonggouwuche {
   font-size: 160rpx;
   color: #EB4450;
 }
